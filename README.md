@@ -1,6 +1,6 @@
 <img align="right" width="400" height="400" src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif">
  
-# Welcome!
+# Welcome! Thanks for visiting.
  
 ## I'm GLEYSER GUIMARÃES! 👋
  
@@ -36,13 +36,6 @@
              
 </p>
              
-
- 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
-
-
 <!--
 **Gleyser/Gleyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
