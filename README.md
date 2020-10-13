@@ -28,11 +28,11 @@
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />           
            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-         <img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fmatheuspcarvalhoblog.wordpress.com%2F2018%2F05%2F30%2Futilizando-metodos-assincronos-spring-boot%2F&psig=AOvVaw1mXeV3xmDAWw3AkVGg9IMs&ust=1602683764372000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiJwLfcsewCFQAAAAAdAAAAABAD" height="35px" style="vertical-align:top margin:6px 4px"/>
+         
             
 </p>
 
-# Thanks for visiting. :)
+## Thanks for visiting. :)
              
 <!--
 **Gleyser/Gleyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
