@@ -6,7 +6,7 @@
  
 ## About me...
 
-- 🔭 I’m currently working on new back-end and front-end programming courses.
+- 🔭 I’m currently working on back-end and front-end programming courses.
 - 🌱 I’m currently learning mobile development techniques and team formation in software engineering.
 - 👯 I’m looking to collaborate on educational projects.
 
