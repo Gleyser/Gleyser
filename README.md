@@ -30,6 +30,8 @@
 </p>
 
 ## Thanks for visiting. :)
+
+[![HitCount](http://hits.dwyl.com/https://githubcom/Gleyser/{project}.svg)](http://hits.dwyl.com/https://githubcom/Gleyser/{project})
              
 <!--
 **Gleyser/Gleyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
