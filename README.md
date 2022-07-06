@@ -4,7 +4,7 @@
  
 ## About me...
 
-- 🔭 I’m currently working on back-end and front-end projects.
+- 🔭 I’m currently working on back-end using Java and Spring.
 - 🌱 I’m currently learning software development techniques and team formation in software engineering.
 - 👯 I’m looking to collaborate on educational projects.
 
